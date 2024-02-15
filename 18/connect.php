@@ -1,3 +1,4 @@
+<!-- connect.php -->
 <?php
 $servername = "localhost";
 $username = "gct";
